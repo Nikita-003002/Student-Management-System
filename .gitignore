@@ -1,0 +1,13 @@
+#credntials
+.env
+
+#python cache
+__pycache__/
+*.pyc
+
+#environment
+venv/
+
+#OS junks
+.DS_Store
+Thumbs.db
